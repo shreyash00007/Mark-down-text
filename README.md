@@ -53,8 +53,7 @@ _____
 1. item 4
 
 <!-- Inline Code BLock -->
-![Mkardown Logo](
-    ~~hhtps://markdown-here.com/img/icon256.png~~)
+![Mkardown Logo](https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/PC.gif)
 
 <!-- Github Markdown -->
 
@@ -82,7 +81,7 @@ def add(num1, num2)
 |  Name    |  Email    |
 | ---------| -----------|
 |  Sd2   | programmersd2.com   |
-|  Shreyash    |  shreyasd.com    |
+|  Shreyash    |  shreyashD.com    |
 
 <!-- Task List -->
 * [x] Task 1
